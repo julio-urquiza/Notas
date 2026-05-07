@@ -1,0 +1,9 @@
+# Comunidades de Testing
+
+En el ámbito del Testing QA en Latinoamérica, existen varias comunidades destacadas que fomentan el aprendizaje, el networking y el crecimiento profesional de los testers. Estas comunidades no solo brindan espacios de intercambio de conocimientos, sino que también permiten a sus miembros mantenerse actualizados en las últimas tendencias y metodologías de la industria. A continuación, se presentan algunas de las comunidades más importantes en la región:
+
+1. **COOL TESTERS:** Con sede en México, COOL TESTERS es tanto una empresa como una comunidad que ha logrado un sólido reconocimiento en el mundo del QA en Latinoamérica. A través de sus actividades y contenido, como webinars, cursos, y una activa presencia en redes sociales, esta comunidad facilita el acceso a recursos educativos y apoyo en temas de testing, además de generar un ambiente ameno gracias a su característico sentido del humor y contenido de memes que resuenan con la experiencia de los testers.
+    
+2. **UNDER TEST:** Originada en Uruguay, UNDER TEST es una comunidad que ha trascendido fronteras, agrupando a testers de toda Latinoamérica y del resto del mundo. Esta comunidad se distingue por su enfoque en el aprendizaje colaborativo, ofreciendo espacios de interacción en plataformas como Slack, Telegram y YouTube. Estos canales permiten a los testers intercambiar ideas, resolver dudas y mantenerse al día con eventos y novedades en el campo del QA.
+    
+3. **ARGENTESTING** De origen argentino, ARGENTESTING es conocida por sus conferencias anuales de testing, que se han convertido en un referente en la región y están disponibles en su canal de YouTube. A través de estas conferencias, ARGENTESTING conecta a expertos y profesionales del QA, proporcionando un espacio para compartir avances y experiencias que enriquecen la práctica profesional de sus miembros.

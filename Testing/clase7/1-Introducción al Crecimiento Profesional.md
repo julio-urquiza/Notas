@@ -1,0 +1,9 @@
+# Proyección de un Tester
+
+La carrera de un tester en QA (Quality Assurance) ofrece un amplio abanico de posibilidades de especialización y desarrollo profesional. En un mercado en constante evolución, la especialización en áreas de testing puede abrir muchas puertas y proporcionar un perfil altamente demandado. El avance en esta profesión no solo se basa en la experiencia adquirida, sino en la capacidad de adaptación y la formación continua en diversas especialidades.
+
+Una de las ramas clave dentro de QA es la automatización de pruebas, que permite a los testers realizar pruebas repetitivas de manera más rápida y eficaz. La automatización es especialmente valiosa en pruebas de regresión, donde se busca reducir el tiempo y los costos asociados con el proceso de pruebas manuales repetitivas. Además, la especialización en pruebas no funcionales, como el testing de rendimiento, seguridad y accesibilidad, resulta cada vez más demandada, ofreciendo nichos donde se requieren conocimientos técnicos avanzados.
+
+El dominio de herramientas específicas, como SQL para consultas de base de datos, y la adquisición de certificaciones reconocidas, como las otorgadas por ISTQB (International Software Testing Qualifications Board), son elementos que fortalecen el perfil profesional de un tester. Estas certificaciones abarcan temas desde los fundamentos teóricos hasta metodologías ágiles y liderazgo, ofreciendo una base sólida y reconocida a nivel internacional.
+
+Por último, involucrarse en comunidades de testing y mantenerse actualizado con las tendencias emergentes es fundamental para el crecimiento profesional. Estas redes de contacto no solo enriquecen el aprendizaje, sino que también abren puertas a nuevas oportunidades laborales y colaborativas dentro del ámbito de QA en Latinoamérica y a nivel mundial.
